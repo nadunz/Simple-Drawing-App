@@ -10,6 +10,6 @@ This is a simple application to draw somthing on a canvas in mutiple colors. It 
  
 ## Preview
   
-   ### Output
+ ![view](https://user-images.githubusercontent.com/34955038/38658629-8fba2ce6-3e43-11e8-955c-6d5db6c177b0.JPG)
    
 
